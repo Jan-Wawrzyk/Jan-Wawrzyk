@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hadlikov
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning js and JSON
+- 🌱 I’m currently learning REACT
 
 <!---
 hadlikov/hadlikov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
