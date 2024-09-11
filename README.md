@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @hadlikov
+- 👋 Hi, I’m @chladík
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning REACT
 
 <!---
 hadlikov/hadlikov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
